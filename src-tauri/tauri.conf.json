@@ -19,9 +19,12 @@
     },
     "windows": [
       {
-        "title": "criticalprep-app",
-        "width": 800,
-        "height": 600
+        "title": "CriticalPrep",
+        "resizable": true,
+        "width": 1024,
+        "height": 768,
+        "minWidth": 1024,
+        "minHeight": 768
       }
     ],
     "security": {
