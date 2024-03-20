@@ -22,9 +22,7 @@
         "title": "CriticalPrep",
         "resizable": true,
         "width": 1024,
-        "height": 768,
-        "minWidth": 1024,
-        "minHeight": 768
+        "height": 768
       }
     ],
     "security": {
